@@ -1,0 +1,39 @@
+#So keep pressing the space bar to increase the speed and release the bar to slow down the speed of fidget spinner 
+
+
+from turtle import *
+state = {'turn': 0}
+def spinner():
+    clear()
+    angle = state['turn']/10
+    right(angle)
+    forward(100)
+    dot(120, 'red')   #size of circle(dot)=120
+    back(100)
+    right(120)
+    forward(100)
+    dot(120, 'green')
+    back(100)
+    right(120)
+    forward(100)
+    dot(120, 'blue')
+    back(100)
+    right(120)
+    update()
+def animate():
+    if state['turn']>0:
+        state['turn']-=1
+
+    spinner()
+    ontimer(animate, 20)
+def flick():
+    state['turn']+=10
+
+setup(420, 420, 370, 0)
+hideturtle()
+tracer(False)
+width(20)
+onkey(flick, 'space')     #with key space
+listen()
+animate()
+done()
