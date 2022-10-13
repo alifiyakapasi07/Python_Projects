@@ -1,0 +1,13 @@
+#draw heart with help of python
+
+from turtle import *
+color("red")
+begin_fill()    # for border colour
+pensize(5)      # thickness of border
+left(50)
+forward(133)
+circle(50,200)
+right(140)
+circle(50,200)
+forward(133)
+end_fill()    #inner fill colour
