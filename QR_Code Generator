@@ -1,0 +1,13 @@
+#To generate QR Codes with Python you need to install only one Python library for this task: 
+# install this library -  pip install pyqrcode
+#After installment you need to copy this code 
+
+
+import pyqrcode 
+from pyqrcode import QRCode 
+  
+s = "https://github.com/alifiyakapasi07"     # String which represent the QR code , you can enter your link
+  
+url = pyqrcode.create(s)     # Generate QR code 
+
+url.svg("myqr.svg", scale = 8)       # Create and file naming "myqr.svg" will be save, this file will be seen in your folder where you save this .py file
