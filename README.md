@@ -7,7 +7,12 @@
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](alifiyakapasi07.github.io/Portfolio_Alifiya/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
 
-## Website Preview
+## BMI_Calculator
+<img src="website_images/BMI.png" width="900">
+
+## Create_Acronyms
+<img src="website_images/Acronyms.png" width="900">
+
 #### Home Page
 <img src="website_images/Home_page.png" width="900">
 
