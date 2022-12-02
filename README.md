@@ -12,10 +12,10 @@
 <img src="website_images/Acronyms.png" width="900">
 
 ## Draw Heart
-<img src="website_images/heart.png" width="700">
+<img src="website_images/heart.png" width="500">
 
 ## Fidget Spinner
-<img src="website_images/Fidget_Spinner.png" width="700">
+<img src="website_images/Fidget_Spinner.png" width="500">
   
 
 ## Features 📋
