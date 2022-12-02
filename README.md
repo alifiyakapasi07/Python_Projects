@@ -16,7 +16,10 @@
 
 ## Fidget Spinner
 <img src="website_images/Fidget_Spinner.png" width="500">
-  
+
+## QR-Code
+<img src="website_images/QR.png" width="300" height="100">  <img src="website_images/qrpng.png" width="300" height="100">
+
 
 ## Features 📋
 ⚡️ Fully Responsive
