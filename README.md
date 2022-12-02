@@ -12,13 +12,13 @@
 <img src="website_images/Acronyms.png" width="900">
 
 ## Draw Heart
-<img src="website_images/heart.png" width="500">
+<img src="website_images/heart.png" width="400" height="250">
 
 ## Fidget Spinner
-<img src="website_images/Fidget_Spinner.png" width="500">
+<img src="website_images/Fidget_Spinner.png" width="500" height="250">
 
 ## QR-Code
-<img src="website_images/QR.png" width="300" height="100">  <img src="website_images/qrpng.png" width="300" height="100">
+<img src="website_images/qr.png" width="300" height="200">  <img src="website_images/qrpng.png" width="300" height="200">
 
 
 ## Features 📋
