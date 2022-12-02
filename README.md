@@ -3,8 +3,6 @@
 ## Portfolio_Alifiya🔥
 > https://alifiyakapasi07.github.io/Portfolio_Alifiya/
 
-
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](alifiyakapasi07.github.io/Portfolio_Alifiya/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
 
 ## BMI_Calculator
@@ -13,11 +11,11 @@
 ## Create_Acronyms
 <img src="website_images/Acronyms.png" width="900">
 
-#### Home Page
-<img src="website_images/Home_page.png" width="900">
+## Draw Heart
+<img src="website_images/heart.png" width="900">
 
-#### Projects Work
-<img src="website_images/Project_Work.png" width="900">
+## Fidget Spinner
+<img src="website_images/Fidget_Spinner.png" width="900">
   
 
 ## Features 📋
