@@ -24,21 +24,8 @@
 <img src="website_images/random_password.png" width="500" height="300" > 
 
 ## Features 📋
-⚡️ Fully Responsive
-⚡️ Easy to modify
-⚡️ Dark Mode
-
-## Sections 📚
-✔️ Home Page\
-✔️ About Me\
-✔️ Skills \
-✔️ Education\
-✔️ Experience\
-✔️ Projects \
-✔️ Resume\
-✔️ Contact Me
-
+⚡️ Added comment where needed
+⚡️ Easily written
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
-
+* Pyhton 
