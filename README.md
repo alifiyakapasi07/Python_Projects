@@ -21,7 +21,7 @@
 <img src="website_images/qr.png" width="300" height="200">  <img src="website_images/qrpng.png" width="300" height="200">
 
 ## Random Password Generator
-<img src="website_images/random_password.png" width="300" height="200"> 
+<img src="website_images/random_password.png" width="500" height="300" > 
 
 ## Features 📋
 ⚡️ Fully Responsive
