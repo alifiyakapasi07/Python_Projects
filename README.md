@@ -23,9 +23,13 @@
 ## Random Password Generator
 <img src="website_images/random_password.png" width="500" height="300" > 
 
+## Indian Flag 
+<img src="website_images/indian_flag.png" width="500" height="300" > 
+
+
 ## Features 📋
 ⚡️ Added comment where needed
 ⚡️ Easily written
 
 ## Tools Used 🛠️
-* Pyhton 
+* Python 
