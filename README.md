@@ -1,4 +1,4 @@
-# Python_Projetcs
+# Python_Projects
 
 ## Portfolio_Alifiya🔥
 > https://alifiyakapasi07.github.io/Portfolio_Alifiya/
